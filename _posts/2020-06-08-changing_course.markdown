@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Changing Course"
-date:       2020-06-08 13:24:08 +0000
+date:       2020-06-08 09:24:09 -0400
 permalink:  changing_course
 ---
 
