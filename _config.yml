@@ -1,11 +1,11 @@
 # Site settings
 author: Katelyn Peterson
-title: 
+title: Software Engineering
 header-img: img/home-bg.png
 email: katelynrpeterson16@gmail.com
 copyright_name: Katelyn Peterson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  FlatIron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pete3249
