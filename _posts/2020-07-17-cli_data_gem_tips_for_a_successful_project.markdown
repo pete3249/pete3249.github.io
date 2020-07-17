@@ -21,6 +21,7 @@ If you’re not sure where to start, try asking yourself these simple questions:
 -	What resource could provide me the information I am searching for?
 
 Takeaways: 
+
 •	Collaboration is powerful. Welcome ideas and lean on your team for support. 
 •	Embrace a challenge. Even if you get stuck during a project, chances are you will gain valuable skills that you can apply to future projects and your career. 
 
@@ -31,6 +32,7 @@ What is a “skeleton” anyway? A skeleton is the “bare bones” that include
 Seeing my TENNIS_CENTER_GEM with all the files was really exciting, but I still had no idea what each of the files were for (I paid little attention to anything outside of the ‘lib’ directory prior). Before moving on, I reviewed the Bundler website and previous lessons to increase my overall understanding of each file. This minor step helped me decipher where to place requirements (and why) before developing my gem.
 
 Takeaways: 
+
 •	Use the tools available, such as Bundler, to save time and give you a head start. 
 •	Take the time to return to previous lessons to help you retain knowledge. 
  
@@ -43,6 +45,7 @@ To use Pry, simply add it to your Gemspec with: spec.add_dependency “pry”
 And, put require ‘pry’ at the top of any files you plan on using it. 
 
 Takeaway: 
+
 •	Stop and look at the code to help you pinpoint what is happening. 
 
 Remember, the most important effort when undertaking a project is continuing to move forward. Whether you are picking an initial idea, learning what a gemspec is all about, or digging deep into your code with pry, each step gets you closer to the end goal. I am excited to keep learning and embrace the process, and I hope this advice helps you do the same. 
