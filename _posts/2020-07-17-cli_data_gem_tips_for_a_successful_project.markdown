@@ -25,7 +25,7 @@ Takeaways:
 * Collaboration is powerful. Welcome ideas and lean on your team for support. 
 * Embrace a challenge. Even if you get stuck during a project, chances are you will gain valuable skills that you can apply to future projects and your career. 
 
-**Tip #2: Learn about each folder in your skeleton **
+**Tip #2: Learn about each folder in your skeleton** 
 
 What is a “skeleton” anyway? A skeleton is the “bare bones” that include the files needed for your program to run (i.e. Gemfile, Rakefile, CODE_OF_CONDUCT.md, LICENSE.txt, .gitignore, gemspec, gem_name.gemspec, lib/gem_name, lib/gem_name.rb, lib/gem_name/version.rb, etc.). I used Bundler to create my gem. Bundler conveniently provides a skeleton after installation, which was SO EASY. A few lines of code and voilà, you are ready to start coding!
 
