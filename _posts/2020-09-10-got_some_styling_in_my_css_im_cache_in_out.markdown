@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Got some styling in my CSS, I'm cache(in)' out"
-date:       2020-09-10 20:57:23 +0000
+date:       2020-09-10 16:57:24 -0400
 permalink:  got_some_styling_in_my_css_im_cache_in_out
 ---
 
@@ -22,6 +22,8 @@ If you come across this issue, you can easily fix it by changing your settings i
 1.	Right click anywhere on the screen and select “inspect”
 2.	Go to the network tab
 3.	Check the box labeled “disable cache”
+
+![img]https://i.imgur.com/PW72Lhl.png[/img]
 
 While the cache can save you time, it can also waste it. Make sure you are cache(in)’ out periodically, whether that is clearing the cache, disabling it, or viewing your application using the Incognito window. 
  
