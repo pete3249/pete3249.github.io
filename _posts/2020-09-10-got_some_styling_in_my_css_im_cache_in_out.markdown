@@ -23,7 +23,7 @@ If you come across this issue, you can easily fix it by changing your settings i
 2.	Go to the network tab
 3.	Check the box labeled “disable cache”
 
-![devtools](https://imgur.com/PW72Lhl)
+![devtools_screenshot](https://i.imgur.com/PW72Lhl.png)
 
 While the cache can save you time, it can also waste it. Make sure you are cache(in)’ out periodically, whether that is clearing the cache, disabling it, or viewing your application using the Incognito window. 
  
