@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I'm going off the Rails on a crazy Google OAuth train..."
-date:       2020-11-13 23:36:25 +0000
+date:       2020-11-13 18:36:26 -0500
 permalink:  im_going_off_the_rails_on_a_crazy_google_oauth_train
 ---
 
